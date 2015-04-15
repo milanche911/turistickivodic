@@ -1,0 +1,15 @@
+#my-map-canvas {
+	position: absolute;
+	height: 50%;
+	width: 98%;
+}
+
+#explore-map-canvas {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+}
+
+.map-container {
+	padding: 0;
+}
